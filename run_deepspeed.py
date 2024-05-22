@@ -16,7 +16,7 @@ from transformers.deepspeed import HfDeepSpeedConfig
 from packaging import version
 import pandas as pd
 from huggingface_hub import login
-login(token="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")
+login(token="TOKEN")
 
 
 
